@@ -17,7 +17,7 @@
  * License:           MIT
  * Text Domain:       git-updater
  * Network:           true
- * GitHub Plugin URI: https://github.com/lexim515/lexi-testing-github
+ * GitHub Plugin URI: https://github.com/lexim515/lexi-testing-github/wp-content/plugins/git-updater
  * GitHub Languages:  https://github.com/afragen/git-updater-translations
  * Requires at least: 5.2
  * Requires PHP:      7.2
