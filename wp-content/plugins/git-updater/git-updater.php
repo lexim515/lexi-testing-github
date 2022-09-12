@@ -15,7 +15,6 @@
  * Version:           11.1.4
  * Author:            Andy Fragen
  * License:           MIT
- * Domain Path:       /languages
  * Text Domain:       git-updater
  * Network:           true
  * GitHub Plugin URI: https://github.com/lexim515/lexi-testing-github
